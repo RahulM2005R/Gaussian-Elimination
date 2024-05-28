@@ -21,8 +21,8 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 ```
 /*
 Program to find the solution of a matrix using Gaussian Elimination.
-Developed by: Rahul M R
-RegisterNumber: 2305003005
+Developed by: Sowmiya G
+RegisterNumber: 2305002023
 */
 import numpy as np
 import sys
@@ -50,8 +50,7 @@ for i in range(n):
 ```
 
 ## Output:
-![image](https://github.com/RahulM2005R/Gaussian-Elimination/assets/166299886/023a2f39-72e8-41e7-97dc-79f0045a5912)
-![image](https://github.com/RahulM2005R/Gaussian-Elimination/assets/166299886/8a12029e-116a-4d55-9841-021a8cda0cae)
+![image](https://github.com/RahulM2005R/Gaussian-Elimination/assets/166299886/f78362ee-cc51-4620-a88d-d299b44d6584)
 
 
 ## Result:
